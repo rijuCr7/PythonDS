@@ -1,2 +1,2 @@
 # PythonDS
-This contains all the basic ds implementations with python
+This contains all the basic data structure implementations with python
